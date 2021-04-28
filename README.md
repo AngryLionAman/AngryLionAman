@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngryLionAman
 - 👀 I’m interested in java Programming
 - 🌱 I’m currently learning Salesforce
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on inquiryhere.com
 - 📫 How to reach me: DM me on any platform
 
 <!---
